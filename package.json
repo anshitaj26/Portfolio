@@ -1,0 +1,21 @@
+{
+  "name": "anshita-portfolio",
+  "version": "1.0.0",
+  "description": "Anshita Jain's 3D Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["portfolio", "three.js", "web-development"],
+  "author": "Anshita Jain",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "gsap": "^3.12.2"
+  }
+}
